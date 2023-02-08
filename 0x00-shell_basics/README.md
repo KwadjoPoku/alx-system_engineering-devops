@@ -1,1 +1,1 @@
-This is not easy
+This is easy to configure
